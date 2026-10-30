@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Pharmacy meets possibility — Ben Msumba</title>
+  <desc id="desc">A navy and lime banner with an abstract molecular motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101f38"/>
+      <stop offset="1" stop-color="#071322"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d8e8ed" opacity=".08"/></pattern>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#grid)"/>
+  <path d="M0 339H1280" stroke="#c5f46a" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="60" font-size="15" font-weight="700" letter-spacing="4" fill="#c5f46a">BEN MSUMBA</text>
+    <text x="54" y="142" font-size="62" font-weight="700" letter-spacing="-2" fill="#f4f7fb">Pharmacy meets</text>
+    <text x="54" y="212" font-size="62" font-weight="700" letter-spacing="-2" fill="#c5f46a">possibility.</text>
+    <text x="58" y="278" font-size="19" fill="#b7c6d9">Learning. Building. Exploring health technology.</text>
+  </g>
+  <g fill="none" stroke="#c5f46a" stroke-width="2.5" opacity=".32">
+    <path d="M934 94L1010 50L1086 94V182L1010 226L934 182ZM1086 94L1162 50M1086 182L1162 226M1010 226V302M934 94L858 50M934 182L858 226"/>
+    <path d="M948 102L1010 66L1072 102M1072 174L1010 210L948 174" stroke-width="1"/>
+  </g>
+  <g fill="#101f38" stroke="#c5f46a" stroke-width="2">
+    <circle cx="934" cy="94" r="8"/><circle cx="1010" cy="50" r="5"/>
+    <circle cx="1086" cy="94" r="10"/><circle cx="1086" cy="182" r="5"/>
+    <circle cx="1010" cy="226" r="8"/><circle cx="934" cy="182" r="5"/>
+    <circle cx="1162" cy="50" r="5"/><circle cx="1162" cy="226" r="8"/>
+    <circle cx="1010" cy="302" r="5"/><circle cx="858" cy="50" r="5"/>
+    <circle cx="858" cy="226" r="8"/>
+  </g>
+  <text x="1010" y="147" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="3" fill="#c5f46a">BM</text>
+</svg>
