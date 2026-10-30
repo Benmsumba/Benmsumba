@@ -1,39 +1,33 @@
-<img src="assets/profile-header.svg" width="100%" alt="Pharmacy meets possibility — Ben Msumba" />
+<img src="assets/profile-header-violet.webp" width="100%" alt="Ben Msumba — Pharmacy × Technology" />
 
-# Ben Msumba
+I'm **Ben Msumba**, a **Bachelor of Pharmacy (Honours)** student at **Kamuzu University of Health Sciences (KUHeS)**, exploring health technology and building useful web tools.
 
-**Pharmacy student · Health technology enthusiast · Web builder**
-
-I'm pursuing a **Bachelor of Pharmacy (Honours)** at **Kamuzu University of Health Sciences (KUHeS)**. I'm interested in how medicines work and how thoughtful technology can help improve healthcare.
-
-Here, I share web projects that bring together learning, creativity, and practical tools.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/benmsumba/) · [Explore my repositories](https://github.com/Benmsumba?tab=repositories)
+[Portfolio](https://www.benmsumba.me/) · [LinkedIn](https://www.linkedin.com/in/benmsumba/) · [Repositories](https://github.com/Benmsumba?tab=repositories)
 
 ## Selected work
 
-### [KUHES PharmaVibes Post Builder](https://github.com/Benmsumba/kuhespharmavibes_post_builder)
+<a href="https://github.com/Benmsumba/kuhespharmavibes_post_builder">
+  <img src="assets/pharmavibes-violet.webp" width="100%" alt="KUHES PharmaVibes Post Builder — a tool for creating branded social posts" />
+</a>
 
-A branded social post builder: upload a photo, edit your message, switch between Facebook and TikTok formats, and export the finished design.
+### [Explore the Post Builder](https://github.com/Benmsumba/kuhespharmavibes_post_builder)
 
-**Built with:** React · Vite · JavaScript
+Upload a photo, edit your message, switch between Facebook and TikTok formats, and export your branded design.
 
-### [Personal Portfolio](https://github.com/Benmsumba/Portfolio)
+**React · Vite · JavaScript**
 
-My introduction to pharmacy, education, and health technology, presented through a navy-and-lime interface with an interactive molecular scene and reduced-motion support.
+<a href="https://github.com/Benmsumba/Portfolio">
+  <img src="assets/portfolio-violet.webp" width="100%" alt="Personal Portfolio — Pharmacy. Education. Technology." />
+</a>
 
-**Built with:** React · Three.js · Vite · CSS
+### [Explore my portfolio](https://github.com/Benmsumba/Portfolio)
 
-## What I'm exploring
+My introduction to pharmacy, education, and health technology, with an interactive molecular scene and reduced-motion support.
 
-- **Pharmacy:** understanding medicines, their mechanisms, and their role in treating disease.
-- **Health technology:** learning where digital tools could help address healthcare challenges.
-- **Web development:** turning ideas into useful, approachable interfaces.
-
-## Let's connect
-
-Interested in pharmacy, health technology, or building useful things for the web? [Find me on LinkedIn](https://www.linkedin.com/in/benmsumba/).
+**React · Three.js · Vite · CSS**
 
 ---
+
+Interested in pharmacy, health technology, or building useful things for the web? **[Let's connect on LinkedIn](https://www.linkedin.com/in/benmsumba/).**
 
 <sub>Learning at the intersection of pharmacy and technology.</sub>
